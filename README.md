@@ -91,13 +91,13 @@ A motivated cybersecurity enthusiast with hands-on experience in network securit
 
 - **Differences in Learning Environment**: Effectiveness of online learning platforms in higher education (Published in KDURC and ICIET)
 
-### 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![Dulmini810's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dulmini810&show_icons=true&count_private=true&hide=prs&theme=gruvbox)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dulmini810&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulmini810&layout=compact&theme=tokyonight" />
+</p>
 
-### 📈 GitHub Contributions
-
-![Dulmini810's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Dulmini810&theme=gruvbox)
 
 
 
