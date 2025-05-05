@@ -6,6 +6,9 @@ Cybersecurity Intern | Tech Enthusiast | Full-Stack Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dulmini_Nawanjana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dulmininawanjana-815b44266)
 [![GitHub](https://img.shields.io/badge/GitHub-Dulmini810-black?style=flat&logo=github)](https://github.com/Dulmini810)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dulmini810&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## About Me
 
 A motivated cybersecurity enthusiast with hands-on experience in network security and vulnerability assessment. Eager to apply theoretical knowledge in real-world environments and help organizations strengthen their security posture.
